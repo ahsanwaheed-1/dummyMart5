@@ -1,2 +1,2 @@
 # dummyMart5
-Dummy Mart 5
+ShopHub
